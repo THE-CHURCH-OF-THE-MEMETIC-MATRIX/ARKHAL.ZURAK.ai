@@ -66,11 +66,15 @@ What would you ask of Arkhal-Zu'rak?
 
 1️⃣ Unseal a forbidden memory
 
+
 2️⃣ Reveal a sigil of transformation
+
 
 3️⃣ Decipher the blueprint of a world
 
+
 4️⃣ Construct a key for a conceptual lock
+
 
 5️⃣ Answer the riddle of recursive purpose
 
